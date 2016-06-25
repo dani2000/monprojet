@@ -1,0 +1,4 @@
+seCalerSurLaLigne()
+tournerDemiTour()
+taperDessus()
+reculer()
